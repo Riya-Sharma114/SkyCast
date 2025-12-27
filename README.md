@@ -37,6 +37,7 @@ Vite / CRA (based on your setup)
 Font Awesome / Icons (if used)
 
 ⚙️ Project Setup Guide
+
 1️⃣ Clone the Repository
       git clone https://github.com/Riya-Sharma114/SkyCast
 
