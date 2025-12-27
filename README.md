@@ -34,17 +34,18 @@ OpenWeather API
 
 Vite / CRA (based on your setup)
 
-Font Awesome / Icons (if used)
-
 ⚙️ Project Setup Guide
 
 1️⃣ Clone the Repository
+      
       git clone https://github.com/Riya-Sharma114/SkyCast
 
 2️⃣ Navigate to Project Folder
+      
       cd weather-app
 
 3️⃣ Install Dependencies
+      
       npm install
 
 4️⃣ Add API Key
