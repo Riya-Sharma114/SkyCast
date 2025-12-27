@@ -38,22 +38,22 @@ Font Awesome / Icons (if used)
 
 ⚙️ Project Setup Guide
 1️⃣ Clone the Repository
-git clone https://github.com/Riya-Sharma114/weather-app.git
+      git clone https://github.com/Riya-Sharma114/SkyCast
 
 2️⃣ Navigate to Project Folder
-cd weather-app
+      cd weather-app
 
 3️⃣ Install Dependencies
-npm install
+      npm install
 
 4️⃣ Add API Key
 
-Create a .env file and add:
+      Create a .env file and add:
 
-VITE_WEATHER_API_KEY=your_api_key_here
+      VITE_WEATHER_API_KEY=your_api_key_here
 
 5️⃣ Run the App
-npm run dev
+      npm run dev
 
 📸 Working Model Screenshots
 
