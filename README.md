@@ -1,16 +1,79 @@
-# React + Vite
+🌦️ SkyCast – Weather App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkyCast is a modern and responsive weather forecasting application built using React. It allows users to search for any city worldwide and view real-time weather details with an intuitive UI and dynamic backgrounds based on weather conditions.
 
-Currently, two official plugins are available:
+🧩 Problem Statement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Many weather applications are either overloaded with ads or lack a clean and interactive user experience. Users need a simple yet visually engaging platform to quickly access accurate weather information.
 
-## React Compiler
+💡 Inspiration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+SkyCast was inspired by the idea of combining real-time weather data with smooth UI animations and dynamic backgrounds, making weather checking not just informative but enjoyable—especially for students and developers building real-world React projects.
 
-## Expanding the ESLint configuration
+✅ Solution
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+SkyCast provides instant weather updates with temperature, humidity, wind details, and condition-based visuals. The app is responsive, lightweight, and easy to use, offering a seamless experience across devices.
+
+✨ Features
+
+🌍 Search weather by city name
+🎥 Dynamic background based on weather conditions
+📱 Fully responsive (mobile, tablet & desktop)
+⚠️ Error handling for invalid city names
+🔄 Unit toggle (Celsius / Fahrenheit) 
+
+🛠️ Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+CSS3
+
+OpenWeather API
+
+Vite / CRA (based on your setup)
+
+Font Awesome / Icons (if used)
+
+⚙️ Project Setup Guide
+1️⃣ Clone the Repository
+git clone https://github.com/Riya-Sharma114/weather-app.git
+
+2️⃣ Navigate to Project Folder
+cd weather-app
+
+3️⃣ Install Dependencies
+npm install
+
+4️⃣ Add API Key
+
+Create a .env file and add:
+
+VITE_WEATHER_API_KEY=your_api_key_here
+
+5️⃣ Run the App
+npm run dev
+
+📸 Working Model Screenshots
+
+
+
+🚀 Future Enhancements
+
+📍 Location-based weather detection
+
+🗓️ 7-day weather forecast
+
+🌙 Dark / Light mode
+
+📊 Weather charts & graphs
+
+🔔 Weather alerts
+
+👩‍💻 Author
+
+Riya Sharma
+Frontend Developer | React | JavaScript | UI Enthusiast
+
+📎 GitHub: Riya-Sharma114
