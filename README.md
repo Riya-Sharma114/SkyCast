@@ -58,12 +58,9 @@ Vite / CRA (based on your setup)
       npm run dev
 
 📸 Working Model Screenshots
+ <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/c0f24b61-7f6d-4952-b0c9-6f33cfbfad27" />
 
-
-    <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/c0f24b61-7f6d-4952-b0c9-6f33cfbfad27" />
-
-    
-    <img width="1918" height="855" alt="image" src="https://github.com/user-attachments/assets/d7f4cb2b-42fa-4d7f-bc56-3cc3f5a16974" />
+ <img width="1918" height="855" alt="image" src="https://github.com/user-attachments/assets/d7f4cb2b-42fa-4d7f-bc56-3cc3f5a16974" />
 
 
 
